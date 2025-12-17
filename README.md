@@ -28,7 +28,7 @@ The project focuses on providing a clean UI, smooth user experience, and fast pe
 
 ---
 
-##🌐 Live Demo
+🌐 Live Demo
 👉 https://swadish-food-delivery.vercel.app
 
 ---
