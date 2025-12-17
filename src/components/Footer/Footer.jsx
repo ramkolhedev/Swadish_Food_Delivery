@@ -28,7 +28,7 @@ From quick bites to wholesome dishes, we are committed to quality, taste, and cu
         <div className="footer-content-right">
 <h2>GET IN TOUCH</h2>
 <ul>
-    <li>+1-212-456-7890</li>
+    <li>+91-9871235555</li>
     <li>contact@swadish.com</li>
 </ul>
         </div>
