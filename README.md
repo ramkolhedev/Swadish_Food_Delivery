@@ -33,10 +33,10 @@ The project focuses on providing a clean UI, smooth user experience, and fast pe
 
 ---
 
-##2️⃣ Install dependencies
+2️⃣ Install dependencies
      
       npm install
       
-##3️⃣ Run the project
+3️⃣ Run the project
        
       npm run dev
