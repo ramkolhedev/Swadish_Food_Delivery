@@ -23,7 +23,7 @@ The project focuses on providing a clean UI, smooth user experience, and fast pe
 ---
 
 ## 🔧 Backend Status
-🚧 Backend development is currently **in progress**.  
+🚧 Backend development is currently **in progress**.....  
     APIs for authentication, orders, and data management will be integrated soon.
 
 ---
